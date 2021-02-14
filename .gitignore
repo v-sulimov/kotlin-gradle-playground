@@ -1,0 +1,10 @@
+# IntelliJ IDEA ignored files.
+.idea
+*.iml
+
+# Gradle and compiler ignored files.
+.gradle
+build
+
+# MacOs ignored files.
+.DS_Store
